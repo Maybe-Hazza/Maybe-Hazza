@@ -19,7 +19,7 @@
   - (*Using the latter mentioned course to help me develop the game while using my own knowledge and other sources of support*)
 
 - <b>Done a course to develop my programming skills and knowledge in Unity: [Complete C# Unity Game Developer 2D](https://www.udemy.com/course/unitycourse/)</b>
-  - These projects, in essence, are not intended to showcase fully-fledged, polished games, but rather the progression of my skills and the dedication to continuous improvement. Each project, no matter how modest, contributes to the iterative process of honing my craft and gaining valuable experience.
-  - Projects I've made from it:
+   - Projects I've made from it:
     - Delivery Driver
-    - Snowboarder
+    - Snow Boarder
+- These projects, in essence, are not intended to showcase fully-fledged, polished games, but rather the progression of my skills and the dedication to continuous improvement. Each project, no matter how modest, contributes to the iterative process of honing my craft and gaining valuable experience.
