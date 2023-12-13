@@ -3,7 +3,7 @@
 <h2>👨‍💻 Game Development Projects:</h2>
 
 - <b>Tavern Game Jam Autumn '23: [Run, Priest Run](https://maybehazza.itch.io/run-priest-run)</b>
-  - **Description:** Run, Priest Run is a Puzzle game developed during Tavern Game, with the theme "Failure means Progress." This fast-paced puzzle game challenges players to use the idea of failing to advance and complete the game. The project showcases the ability to rapidly form ideas, prototype, and deliver a unique gaming experience within the constraints of a game jam.
+  - **Description:** Run, Priest Run is a Puzzle game developed during Tavern Game Jam, with the theme "Failure means Progress." This fast-paced puzzle game challenges players to use the idea of failing to advance and complete the game. The project showcases the ability to rapidly form ideas, prototype, and deliver a unique gaming experience within the constraints of a game jam.
   - **Team Collaboration:** Developed in collaboration with MadMan101
   - **Made in:** Unity Engine
   - **Development Time:** 7 days
