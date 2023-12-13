@@ -13,7 +13,7 @@
     - Gameplay: How enjoyable is it to play? #2
     - **Overall:** #2
 
-- <b>Solo Passion Project: Whisker's Wild Run! (*Working Title*)</b>
+- <b>Solo Passion Project: [Whisker's Wild Run!](https://github.com/Maybe-Hazza/Whisker-s-Wild-Run) (*Working Title*)</b>
   - **Description:** Currently in the early stages of development, "Whisker's Wild Run!" is an ongoing passion project. The core concept revolves around skillful maneuvering and strategic decision-making. As the project evolves, the aim is to refine the platforming mechanics and enhance the overall gaming experience. While it's still taking shape, the goal is to create a short but fun platformer that I can feel proud of.
   - **Stay tuned for updates on the progress of "Whisker's Wild Run!" as it evolves from its initial stages into a polished and fully realized game.**
   - (*Using the latter mentioned course to help me develop the game while using my own knowledge and other sources of support*)
